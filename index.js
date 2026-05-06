@@ -3,7 +3,7 @@ let quote = "...ask not what your country can do for you — ask what you can do
 let quote = quotelength.length
 let quote = quote[22];
 let output = quotelength;
-let output = quotelength[quote-22]
+let output = quotelength[quote-22];
 
-document.getElementById("result").innerHTML = output
+document.getElementById("result").innerHTML = output;
 
