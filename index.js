@@ -4,5 +4,5 @@ let quote = quotelength.length
 let quote = quote[22];
 let output = quotelength[quote-22];
 
-document.getElementById(result)innerHTML = output;
+document.getElementById('result')innerHTML = output;
 
